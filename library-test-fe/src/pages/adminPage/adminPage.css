@@ -1,0 +1,20 @@
+/* .wrapper {
+  width: 100vw;
+  height: 100vh;
+  border: 5px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+} */
+
+.admin-wrapper {
+  display: flex;
+}
+
+.container-user {
+  width: 8rem;
+  height: 8rem;
+  /* background-color: black; */
+  color: white;
+  font-size: 2rem;
+}

@@ -1,0 +1,7 @@
+.container-vid-info {
+  width: 8rem;
+  height: 5rem;
+  font-size: 5rem;
+  border: 5px solid black;
+  cursor: pointer;
+}

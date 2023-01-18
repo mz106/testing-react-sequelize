@@ -1,0 +1,14 @@
+.container-header {
+  background-color: black;
+  height: 10.17rem;
+  display: flex;
+  align-items: center;
+}
+
+.container-logo {
+  color: white;
+  width: 10.81rem;
+  height: 2.6rem;
+  border: 1px solid red;
+  font-size: 2rem;
+}

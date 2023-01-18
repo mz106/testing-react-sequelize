@@ -1,0 +1,16 @@
+.sidepanel-wrapper {
+  width: 10vw;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-user {
+  width: 100%;
+  height: 100%;
+  /* background-color: black; */
+  color: blue;
+  font-size: 2rem;
+  cursor: pointer;
+}
